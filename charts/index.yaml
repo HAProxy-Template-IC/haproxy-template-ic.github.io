@@ -40,9 +40,9 @@ entries:
       haproxy.org/minimum-version: "3.0"
     apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-12-01T12:14:49.04233285Z"
+    created: "2025-12-01T13:39:00.576977567Z"
     description: HAProxy Template Ingress Controller
-    digest: 864f9ceafb3ed57d29dd30250c3e42d62f36ac5cdd868bb0346391b88d847055
+    digest: d548cfbfdc2e793f8571104e6da9cb58e6abd5938da6b669b8adaa7a7bd7975a
     home: https://github.com/HAProxy-Template-IC/haproxy-template-ingress-controller
     keywords:
     - haproxy
@@ -59,4 +59,4 @@ entries:
     urls:
     - https://haproxy-template-ic.github.io/charts/charts/haproxy-template-ic-0.1.0.tgz
     version: 0.1.0
-generated: "2025-12-01T12:14:49.037104343Z"
+generated: "2025-12-01T13:39:00.571987206Z"
